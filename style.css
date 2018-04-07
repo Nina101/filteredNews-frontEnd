@@ -1,0 +1,25 @@
+
+body{
+    margin: 0;
+    padding: 0;
+}
+#div {
+    margin: 0;
+    width: 100%;
+}
+
+header{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 150px;
+    background-image: linear-gradient(121deg,#3023AE,#84C7A6) ;
+    
+}
+.title{
+    float: left;
+    margin-left: 7%;
+    font-size: 72px; 
+    font-family: 'Anton', sans-serif;
+}
